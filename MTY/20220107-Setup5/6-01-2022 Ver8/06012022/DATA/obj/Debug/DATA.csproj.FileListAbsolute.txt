@@ -1,0 +1,87 @@
+C:\Users\ois\Desktop\OOP_ODEV\DATA\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\OOP_ODEV\DATA\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\OOP_ODEV\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\OOP_ODEV\DATA\obj\Debug\DATA.dll
+C:\Users\ois\Desktop\OOP_ODEV\DATA\obj\Debug\DATA.pdb
+C:\Users\ois\Desktop\OOP_ODEV\DATA\obj\Debug\DATA.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\OOP_ODEV\DATA\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\OOP_ODEV\DATA\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\OOP_ODEV\DATA\obj\Debug\DATA.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\OOP_ODEV\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\OOP_ODEV\DATA\obj\Debug\DATA.dll
+C:\Users\yukse\Desktop\OOP_ODEV\DATA\obj\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DATA\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DATA\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DATA\obj\Debug\DATA.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DATA\obj\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DATA\obj\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DATA\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DATA\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DATA\obj\Debug\DATA.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DATA\obj\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DATA\obj\Debug\DATA.pdb
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DATA\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DATA\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DATA\obj\Debug\DATA.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DATA\obj\Debug\DATA.dll
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DATA\obj\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DATA\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DATA\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DATA\obj\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DATA\obj\Debug\DATA.pdb
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DATA\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DATA\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DATA\obj\Debug\DATA.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DATA\obj\Debug\DATA.dll
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DATA\obj\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DATA\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DATA\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DATA\obj\Debug\DATA.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DATA\obj\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DATA\obj\Debug\DATA.pdb
+C:\Users\yukse\Desktop\sonGuncelleme\DATA\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\sonGuncelleme\DATA\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\sonGuncelleme\DATA\obj\Debug\DATA.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\sonGuncelleme\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\sonGuncelleme\DATA\obj\Debug\DATA.dll
+C:\Users\yukse\Desktop\sonGuncelleme\DATA\obj\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DATA\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DATA\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DATA\obj\Debug\DATA.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DATA\obj\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DATA\obj\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DATA\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DATA\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DATA\obj\Debug\DATA.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DATA\obj\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DATA\obj\Debug\DATA.pdb
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DATA\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DATA\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DATA\obj\Debug\DATA.dll
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DATA\obj\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DATA\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DATA\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DATA\obj\Debug\DATA.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DATA\obj\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DATA\obj\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DATA\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DATA\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DATA\obj\Debug\DATA.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DATA\obj\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DATA\obj\Debug\DATA.pdb
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DATA\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DATA\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DATA\obj\Debug\DATA.dll
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DATA\obj\Debug\DATA.pdb

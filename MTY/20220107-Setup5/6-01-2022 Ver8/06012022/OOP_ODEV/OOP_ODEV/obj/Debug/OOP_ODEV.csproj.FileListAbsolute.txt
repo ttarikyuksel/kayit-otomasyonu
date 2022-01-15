@@ -1,0 +1,48 @@
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.csprojAssemblyReference.cache
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.csproj.GenerateResource.cache
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.csproj.CoreCompileInputs.cache
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\Kartal Kaan Akdoğan\source\repos\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.pdb

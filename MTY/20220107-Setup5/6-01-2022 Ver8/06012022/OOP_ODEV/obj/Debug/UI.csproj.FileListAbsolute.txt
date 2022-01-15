@@ -1,0 +1,788 @@
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\yukse\Desktop\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\odev1\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\OOP_ODEV\bin\Debug\itextsharp.dll
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\yukse\Desktop\sonGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\bin\Debug\itextsharp.dll
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver4\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.intro.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.intro.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.intro.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver7\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe.config
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\bin\Debug\OOP_ODEV.pdb
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitimEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.EgitmenForm.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.Form1.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.GenelRaporForm.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.intro.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KoordinatorForm.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciEkleForm.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.KullaniciGuncelleSilForm.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciEkleForm.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.OgrenciGuncelleSilForm.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.Properties.Resources.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SinifRaporForm.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeEkleGuncelleSilForm.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.SubeRaporForm.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoklamaEkleForm.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.YoneticiForm.resources
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\UI.csproj.CopyComplete
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.exe
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\OOP_ODEV\obj\Debug\OOP_ODEV.pdb

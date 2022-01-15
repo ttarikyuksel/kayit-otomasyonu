@@ -1,0 +1,294 @@
+C:\Users\ois\Desktop\OOP_ODEV\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\OOP_ODEV\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\OOP_ODEV\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\OOP_ODEV\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\OOP_ODEV\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\OOP_ODEV\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\OOP_ODEV\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\OOP_ODEV\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\OOP_ODEV\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\OOP_ODEV\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\OOP_ODEV\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\OOP_ODEV\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\OOP_ODEV\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\OOP_ODEV\DAL\obj\Debug\DAL.pdb
+C:\Users\yukse\Desktop\OOP_ODEV\DAL\bin\Debug\DAL.dll.config
+C:\Users\yukse\Desktop\OOP_ODEV\DAL\bin\Debug\DAL.dll
+C:\Users\yukse\Desktop\OOP_ODEV\DAL\bin\Debug\DAL.pdb
+C:\Users\yukse\Desktop\OOP_ODEV\DAL\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\OOP_ODEV\DAL\bin\Debug\EntityFramework.dll
+C:\Users\yukse\Desktop\OOP_ODEV\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukse\Desktop\OOP_ODEV\DAL\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\OOP_ODEV\DAL\bin\Debug\EntityFramework.xml
+C:\Users\yukse\Desktop\OOP_ODEV\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukse\Desktop\OOP_ODEV\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\OOP_ODEV\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\OOP_ODEV\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\yukse\Desktop\OOP_ODEV\DAL\obj\Debug\DAL.dll
+C:\Users\yukse\Desktop\OOP_ODEV\DAL\obj\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\OOP_ODEV\DAL\obj\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DAL\obj\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\3\OOP_ODEV\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\odev1\OOP_ODEV\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\odev1\OOP_ODEV\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\odev1\OOP_ODEV\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\odev1\OOP_ODEV\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\odev1\OOP_ODEV\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\odev1\OOP_ODEV\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\odev1\OOP_ODEV\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\odev1\OOP_ODEV\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\odev1\OOP_ODEV\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\odev1\OOP_ODEV\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\odev1\OOP_ODEV\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\odev1\OOP_ODEV\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\odev1\OOP_ODEV\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\odev1\OOP_ODEV\DAL\obj\Debug\DAL.pdb
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DAL\bin\Debug\DAL.dll.config
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DAL\bin\Debug\DAL.dll
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DAL\bin\Debug\DAL.pdb
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DAL\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DAL\bin\Debug\EntityFramework.dll
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DAL\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DAL\bin\Debug\EntityFramework.xml
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DAL\obj\Debug\DAL.dll
+C:\Users\yukse\Desktop\OnurOdev10\OOP_ODEV\DAL\obj\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\5-2712\OnurOdev10\OOP_ODEV\DAL\obj\Debug\DAL.pdb
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DAL\bin\Debug\DAL.dll.config
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DAL\bin\Debug\DAL.dll
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DAL\bin\Debug\DAL.pdb
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DAL\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DAL\bin\Debug\EntityFramework.dll
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DAL\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DAL\bin\Debug\EntityFramework.xml
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DAL\obj\Debug\DAL.dll
+C:\Users\yukse\Desktop\--SonHali--\OOP_ODEVSonnnnn2712\DAL\obj\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\7-2712Aksam\sonGuncelleme\DAL\obj\Debug\DAL.pdb
+C:\Users\yukse\Desktop\sonGuncelleme\DAL\bin\Debug\DAL.dll.config
+C:\Users\yukse\Desktop\sonGuncelleme\DAL\bin\Debug\DAL.dll
+C:\Users\yukse\Desktop\sonGuncelleme\DAL\bin\Debug\DAL.pdb
+C:\Users\yukse\Desktop\sonGuncelleme\DAL\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\sonGuncelleme\DAL\bin\Debug\EntityFramework.dll
+C:\Users\yukse\Desktop\sonGuncelleme\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukse\Desktop\sonGuncelleme\DAL\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\sonGuncelleme\DAL\bin\Debug\EntityFramework.xml
+C:\Users\yukse\Desktop\sonGuncelleme\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukse\Desktop\sonGuncelleme\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\sonGuncelleme\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\sonGuncelleme\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\yukse\Desktop\sonGuncelleme\DAL\obj\Debug\DAL.dll
+C:\Users\yukse\Desktop\sonGuncelleme\DAL\obj\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\2912-ONUR_SONGuncel\DAL\obj\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\8 - 2912Guncel\30-12-2021_ENSONGUNCEL\DAL\obj\Debug\DAL.pdb
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DAL\bin\Debug\DAL.dll.config
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DAL\bin\Debug\DAL.dll
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DAL\bin\Debug\DAL.pdb
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DAL\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DAL\bin\Debug\EntityFramework.dll
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DAL\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DAL\bin\Debug\EntityFramework.xml
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DAL\obj\Debug\DAL.dll
+C:\Users\yukse\Desktop\31-12-2021_OOP_iLK\DAL\obj\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\tarık\9-31122021\31-12-2021_OOP_DEVAM\DAL\obj\Debug\DAL.pdb
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\DAL\bin\Debug\DAL.dll.config
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\DAL\bin\Debug\DAL.dll
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\DAL\bin\Debug\DAL.pdb
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\DAL\bin\Debug\DATA.dll
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\DAL\bin\Debug\EntityFramework.dll
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\DAL\bin\Debug\DATA.pdb
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\DAL\bin\Debug\EntityFramework.xml
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\DAL\obj\Debug\DAL.dll
+C:\Users\yukse\Desktop\Projeler\___31-12-2021_OOP_SetupOncesiGuncelleme\DAL\obj\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver1\04012022\DAL\obj\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\4-01-2022 Ver2\04012022\DAL\obj\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\5-01-2022 Ver3\05012022\DAL\obj\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver5\06012022\DAL\obj\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\PART-2\6-01-2022 Ver6\06012022\DAL\obj\Debug\DAL.pdb
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DAL\bin\Debug\DAL.dll.config
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DAL\bin\Debug\DAL.dll
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DAL\bin\Debug\DAL.pdb
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DAL\bin\Debug\DATA.dll
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DAL\bin\Debug\DATA.pdb
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DAL\obj\Debug\DAL.dll
+C:\Users\ois\Desktop\SETUPS\20220107-Setup5\6-01-2022 Ver8\06012022\DAL\obj\Debug\DAL.pdb
